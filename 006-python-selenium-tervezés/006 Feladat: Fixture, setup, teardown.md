@@ -6,6 +6,7 @@ A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elv
 
 ### További segítség
 Itt találdo a Pytest fixtures-re vonatkozó dokumentációját: https://docs.pytest.org/en/6.2.x/fixture.html#back-to-fixtures
+
 Tehát bármit le lehet példányosíttatni mielőtt egy teszt lefut és át lehet adatni a Pytesttel a teszt metódusnak. Ezzel újra lehet hasznosítani a webdriver-t. Ez ennek a feladatnak a lényege. Próbáld ki.
 
 
